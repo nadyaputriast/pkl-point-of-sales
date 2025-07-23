@@ -1,0 +1,3 @@
+[submodule "pkl-pos-frontend"]
+	path = pkl-pos-frontend
+	url = https://github.com/nadyaputriast/pkl-pos-frontend.git
